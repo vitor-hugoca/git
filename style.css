@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div#container{
+    min-height: 500px;
+    background-color: aquamarine;
+}
