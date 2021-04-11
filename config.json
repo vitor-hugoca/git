@@ -1,5 +1,9 @@
-config : [
+config : {
 
 { id : 1, name : 'Config01' }    
 
-]
+}
+
+list : {
+    [name: 'jorge']
+}
