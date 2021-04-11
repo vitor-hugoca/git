@@ -17,3 +17,8 @@ h1{
 li a{
     background-color: blue;
 }
+
+li a:hover{
+    background-color: navy;
+    color: white;
+}
